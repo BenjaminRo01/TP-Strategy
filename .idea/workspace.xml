@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7afffd7f-fdee-4c79-b841-f07faa43b8e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/CarritoCompra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/ColectivosSur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/CorreoArgentino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/StrategyEnvio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCompraOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/FormatoFechaCorta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/FormatoFechaLarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/StrategyFormatoFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestFomateoFecha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CarritoCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/CarritoCompra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/ColectivosSur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/ColectivosSur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CorreoArgentino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/CorreoArgentino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/StrategyEnvio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/StrategyEnvio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCompraOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCompraOnline.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.TestCompraOnline.executor": "Run",
+    "JUnit.TestFomateoFecha.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -53,6 +56,22 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestFomateoFecha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TP-Strategy" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestFomateoFecha" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestFomateoFecha" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

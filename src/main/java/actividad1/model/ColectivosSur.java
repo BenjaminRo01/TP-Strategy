@@ -1,4 +1,4 @@
-package model;
+package actividad1.model;
 
 public class ColectivosSur implements StrategyEnvio{
     @Override

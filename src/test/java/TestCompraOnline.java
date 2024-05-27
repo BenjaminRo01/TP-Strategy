@@ -1,7 +1,7 @@
-import model.CarritoCompra;
-import model.ColectivosSur;
-import model.CorreoArgentino;
-import model.Producto;
+import actividad1.model.CarritoCompra;
+import actividad1.model.ColectivosSur;
+import actividad1.model.CorreoArgentino;
+import actividad1.model.Producto;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
