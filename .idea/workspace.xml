@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7afffd7f-fdee-4c79-b841-f07faa43b8e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/FormatoFechaCorta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/FormatoFechaLarga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/actividad2/model/StrategyFormatoFecha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestFomateoFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorAlimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorDePrecios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorMedicina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorOtro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/TipoProducto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/CarritoCompra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/CarritoCompra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/ColectivosSur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/ColectivosSur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/CorreoArgentino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/CorreoArgentino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/StrategyEnvio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad1/model/StrategyEnvio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestCompraOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCompraOnline.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "JUnit.TestCompraOnline.executor": "Run",
     "JUnit.TestFomateoFecha.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -56,7 +55,20 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="actividad3.main.Main" />
+      <module name="TP-Strategy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="actividad3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFomateoFecha" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TP-Strategy" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestFomateoFecha" />
       </list>
     </recent_temporary>
