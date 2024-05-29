@@ -1,6 +1,9 @@
 package actividad1.model;
 
 public class CorreoArgentino implements StrategyEnvio{
+
+    public static final int COEFICIENTE_POR_DISTANCIA = 5;
+
     @Override
     public double calcularEnvio(String destino, double peso, int distancia) {
         double montoFijo = 0.0;
@@ -13,6 +16,6 @@ public class CorreoArgentino implements StrategyEnvio{
         return montoFijo + this.costoPorDistancia(distancia);
     }
     private double costoPorDistancia(int distancia){
-        return distancia * 5;
+        return distancia * COEFICIENTE_POR_DISTANCIA;
     }
 }
