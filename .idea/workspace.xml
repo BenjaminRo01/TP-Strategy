@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7afffd7f-fdee-4c79-b841-f07faa43b8e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorAlimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorAlimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorDePrecios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorDePrecios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorLibro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorLibro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorMedicina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorMedicina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorOtro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/CalculadorOtro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actividad3/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actividad3/model/Producto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Opcion2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/POO2-TP/TP-Strategy",
     "run.code.analysis.last.selected.profile": "pProject Default"

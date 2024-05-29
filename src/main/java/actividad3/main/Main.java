@@ -4,10 +4,10 @@ import actividad3.model.*;
 
 public class Main {
     public static void main(String[] args) {
-        var libro = new Producto(30.0, new CalculadorLibro());
-        var alimento = new Producto(330.0, new CalculadorAlimento());
-        var medicina = new Producto( 130.0, new CalculadorMedicina());
-        var otro = new Producto(130.0, new CalculadorOtro());
+        var libro = new Producto(TipoProducto.LIBRO,30.0);
+        var alimento = new Producto(TipoProducto.ALIMENTO,330.0);
+        var medicina = new Producto(TipoProducto.MEDICINA, 130.0);
+        var otro = new Producto(TipoProducto.OTRO,130.0);
         System.out.println(libro.precioFinal());
         System.out.println(alimento.precioFinal());
         System.out.println(medicina.precioFinal());
