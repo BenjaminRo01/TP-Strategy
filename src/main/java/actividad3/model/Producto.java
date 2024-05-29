@@ -6,7 +6,7 @@ import java.util.Map;
 public class Producto {
     private double precio;
     private TipoProducto tipoProducto;
-    private Map<String, CalculadorDePrecios> calculadorasDePrecios;
+    private Map<String, CalculadorDePrecios> calculadorasDePrecios = new HashMap<>();
     public Producto(TipoProducto tipoProducto, double precio) {
         this.precio = precio;
         this.tipoProducto = tipoProducto;
